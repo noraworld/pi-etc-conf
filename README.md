@@ -1,4 +1,4 @@
-# pi-etc-conf
+# pi-misc-conf
 
 ## Setup
 ```shell
